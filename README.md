@@ -2,7 +2,7 @@ gkulin --help
 <pre>
 gkulin is ...
      👩🏻‍💻 a product manager @ Microsoft
-     ☁️ currently helping devs get from code to cloud faster with <a href="https://aka.ms/azd">azd</a>
+     🌥️ currently helping devs get from code to cloud faster with <a href="https://aka.ms/azd">azd</a>
      🧐 passionate about research & data analysis
      🫶 a major Swiftie
 
