@@ -1,4 +1,4 @@
-gkulin --help
+`gkulin --help`
 <pre>
 gkulin is ...
      👩🏻‍💻 a product manager @ Microsoft
@@ -9,7 +9,7 @@ gkulin is ...
 Trying to get in contact with Grace? Run <b>gkulin --contact</b>
 </pre>
 
-gkulin --contact
+`gkulin --contact`
 <pre>
 Message or connect with <a href="https://www.linkedin.com/in/grace-kulin/">Grace Kulin on LinkedIn</a>
 You can <a href="https://aka.ms/book-with-gracekulin">request a 1:1 with Grace</a> to give azd product feedback
