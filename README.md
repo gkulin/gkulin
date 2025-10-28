@@ -3,7 +3,6 @@
 gkulin is ...
      👩🏻‍💻 a product manager @ MangoAppsInc; previously @Microsoft helping devs get from code to cloud faster with <a href="https://aka.ms/azd">azd</a>
      🧐 passionate about research & data analysis
-     🫶 a major Swiftie
 
 Trying to get in contact with Grace? Run <b>gkulin --contact</b>
 </pre>
